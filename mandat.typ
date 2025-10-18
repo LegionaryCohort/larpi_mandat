@@ -124,7 +124,7 @@ Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestell
   columns: (5fr, 7fr),
   column-gutter: 20pt,
   align: (center + horizon, start)
-)[#image("regel_prozess_3.svg", width: 100%)][
+)[#image("regel_prozess.svg", width: 100%)][
   Regelideen werden von der Gemeinschaft oder auch uns (Vorschlagsrecht) auf verschiedene Kommunikationswege eingebracht und werden im Jugger-Regelforum dokumentiert. Regelideen beinhalten mindestens eine Absicht, können aber auch Formulierungsvorschläge enthalten. Im Jahr führen wir zwei bis vier Regeltagungen durch, um Regelentwürfe zu entwickeln. Die Zeitpunkte und die Arbeitsliste werden im Vorfeld bekannt gegeben. Wir behalten uns vor, Regelideen begründet nicht auf die Arbeitsliste zu setzen (Priorisierungsrecht und Vetorecht).\
   Auf den Tagungen versuchen wir Regelhütenden vollständige Regelentwürfe zu entwickeln. Sie beinhalten die Formulierung des Regeltextes, ein Absichtserklärung entsprechend der Regelidee und eine Einschätzung der Regelhütenden, was die Änderung in der Spielpraxis bewirken wird.\
   Beim Erarbeiten der Formulierungen achten wir darauf, dass sie widerspruchsfrei zu den bestehenden Formulierungen des Regelwerks sind, dem Wording des Regelwerks entsprechen und geeignet sind, um die Absicht des Entwurfs zu erfüllen.\
