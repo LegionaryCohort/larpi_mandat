@@ -148,11 +148,15 @@ Der Ablauf der Regelwahl sieht wie folgt aus:
 Die Kommunikation zur Regelwahl findet im Juggerforum statt und wird durch anlass-bezogene E-Mails an den Regelhüterverteiler unterstützt.
 
 === Wahlrecht <wahl_wahlrecht>
-Teams qualifizieren sich als wahlberechtigt, indem sie im Wahljahr mindestens drei Turniere besuchen. Diese Turniere müssen
+Um sich zu qualifizieren, muss ein Team an mindestens drei Turnieren teilgenommen haben, für die jeweils die nachfolgenden Voraussetzungen erfüllt sind.
+Das Turnier muss:
 
 - Im JTR eingetragen sein,
+- Zwischen dem 01. Januar und 31. Oktober des Wahljahres stattgefunden haben,
 - Mit mehr als 8 Teams stattgefunden haben,
-- In mindestens zwei unterschiedlichen deutschen Juggerregionen stattgefunden haben.
+- In einer deutschen Jugger-Region (wie in 2.4 der Liga-Statuten beschrieben) stattgefunden haben.
+
+Zusätzlich müssen mindestens zwei dieser drei Turniere in unterschiedlichen deutschen Jugger-Regionen stattgefunden haben.
 
 Diese Bedingungen sollen sicherstellen, dass Teams ihre Regelbubble verlassen und im Austausch mit verschiedenen Teams stehen.
 
