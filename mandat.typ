@@ -50,6 +50,13 @@
   indent: 15pt,
   spacing: 10pt,
 )
+#show ref: it => {
+  let el = it.element
+  let loc = el.location()
+  if el != none and el.func() == heading [
+    #it\ #link(loc, el.body)
+  ]
+}
 
 
 #let stv = [
@@ -73,6 +80,20 @@
 
 #counter(page).update(0)
 #set page(numbering: "1")
+
+= Änderungstabelle
+#table(
+  columns: (1fr, 3fr),
+  [@wahl_wahlrecht],
+  [
+    Die Formulierung der Qualifikationsbedingungen wurde verbessert.\
+    Die konkreten inhaltlichen Änderungen sind #weblink(
+      display: "hier",
+      url: "https://github.com/LegionaryCohort/larpi_mandat/commit/b19758ebd8367f7ad9917151a657d34fd12e22ae",
+    ) zu finden.
+  ],
+)
+
 #set heading(numbering: "1.1")
 
 = Einleitung <einleitung>
