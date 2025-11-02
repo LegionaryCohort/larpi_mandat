@@ -1,4 +1,5 @@
 #import "util/weblink.typ": weblink
+#import "util/todo.typ": todo
 
 #set par(justify: true)
 #set page(margin: 2.8cm)
@@ -97,7 +98,7 @@
 #set heading(numbering: "1.1")
 
 = Einleitung <einleitung>
-Wir (Helene, Mario und Max) möchten uns als Team von drei Regelhütenden für die kommende Wahlperiode zur Wahl stellen und beabsichtigen, ein neues System auszuprobieren.
+Wir (Helene, Mario und Max) möchten uns 2026 wieder zur Wahl als Regelhütende stellen. Unser Mandat beruht auf dem Mandat der letzten Wahlperiode, allerdings haben wir einige Anpassungen vorgenommen, die uns mit einem Jahr Erfahrung als Regelhütende sinnvoll erscheinen.
 
 Im Folgenden legen wir dar, mit welchen Absichten und Vorstellungen wir an das gesamte Thema herantreten wollen. Wir nehmen außerdem am Dokumentenende Stellung zu einigen Fragen, die sicherlich aufkommen werden.
 
@@ -136,8 +137,17 @@ Wir stellen uns für das folgende Mandat mit folgenden Pflichten und Rechten zur
 - Regelideen begründet priorisieren (Priorisierungsrecht)
 - Regelideen begründet ablehnen (Vetorecht)
 - Begründetes Entfernen von fehlerhaften Regelentwürfen aus einer Regelwahl oder das Abbrechen und Neuorganisieren einer Regelwahl (Korrekturrecht)
+- Bearbeiten der Formulierungen, Formatierung und grafischen Elementen des Regelwerks ohne inhaltliche Änderungen (Redigierungsrecht)
 
 #pagebreak()
+== Entwicklungsprozess für das Regelwerk <mandat_RW_prozess>
+Änderungen am Regelwerk werden von uns auf zwei Weisen durchgeführt.
++ Redigierungen
++ Regelentwürfe
+#todo("ausformulieren")
+
+Alle Änderungen werden im GitHub Repo dokumentiert. Es ist die Single Source of Truth. Das heißt, das der Formulierungstext dort hinterlegt ist und im Jugger-Forum zusammen mit erläuternden Text verlinkt wird. Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zuvermeiden und Zeit zu sparen, da wir die aufwendige Formatierung von Forumspost reduzieren können.
+
 == Entwicklungsprozess für Regelentwürfe <mandat_prozess>
 Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestellt und wird im weiteren erläutert.
 
@@ -146,16 +156,16 @@ Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestell
   column-gutter: 20pt,
   align: (center + horizon, start)
 )[#image("regel_prozess.svg", width: 100%)][
-  Regelideen werden von der Gemeinschaft oder auch uns (Vorschlagsrecht) auf verschiedene Kommunikationswege eingebracht und werden im Jugger-Regelforum dokumentiert. Regelideen beinhalten mindestens eine Absicht, können aber auch Formulierungsvorschläge enthalten. Im Jahr führen wir zwei bis vier Regeltagungen durch, um Regelentwürfe zu entwickeln. Die Zeitpunkte und die Arbeitsliste werden im Vorfeld bekannt gegeben. Wir behalten uns vor, Regelideen begründet nicht auf die Arbeitsliste zu setzen (Priorisierungsrecht und Vetorecht).\
+  Regelideen werden von der Gemeinschaft oder auch uns (*Vorschlagsrecht*) auf verschiedene Kommunikationswege eingebracht und werden im Jugger-Regelforum dokumentiert. Regelideen beinhalten mindestens eine Absicht, können aber auch Formulierungsvorschläge enthalten. Im Jahr führen wir zwei bis vier Regeltagungen durch, um Regelentwürfe zu entwickeln. Die Zeitpunkte und die Arbeitsliste werden im Vorfeld bekannt gegeben. Wir behalten uns vor, Regelideen begründet nicht auf die Arbeitsliste zu setzen (*Priorisierungsrecht* und *Vetorecht*).\
   Auf den Tagungen versuchen wir Regelhütenden vollständige Regelentwürfe zu entwickeln. Sie beinhalten die Formulierung des Regeltextes, ein Absichtserklärung entsprechend der Regelidee und eine Einschätzung der Regelhütenden, was die Änderung in der Spielpraxis bewirken wird.\
   Beim Erarbeiten der Formulierungen achten wir darauf, dass sie widerspruchsfrei zu den bestehenden Formulierungen des Regelwerks sind, dem Wording des Regelwerks entsprechen und geeignet sind, um die Absicht des Entwurfs zu erfüllen.\
   Vollständige Regelentwürfe, die zur nächsten Wahl gestellt werden sollen, werden veröffentlicht. Sie können dann getestet werden. Sollten Regelentwürfe nicht ausreichend praxisgetestet sein, werden sie nicht zur Wahl zugelassen. Diese Einschätzung übernehmen wir auf Grundlage von Rückmeldungen der Turnierausrichtenden.\
-  Die Wahl wird mit allen geeigneten Regelentwürfen vorbereitet und Ende der Saison durchgeführt. Sollten unerwartet während der laufenden Wahl fundamentale Fehler in den Entwürfen erkannt werden, können wir Abstimmungspunkte aus der Wahl entfernen. Nach einer entsprechenden Korrektur können die Entwürfe dann in der nächsten Wahl abgestimmt werden. Sollten mehrere derartige Fälle auftreten, kann auch die gesamte Wahl abgebrochen und verschoben werden (Korrekturrecht).
+  Die Wahl wird mit allen geeigneten Regelentwürfen vorbereitet und Ende der Saison durchgeführt. Sollten unerwartet während der laufenden Wahl fundamentale Fehler in den Entwürfen erkannt werden, können wir Abstimmungspunkte aus der Wahl entfernen. Nach einer entsprechenden Korrektur können die Entwürfe dann in der nächsten Wahl abgestimmt werden. Sollten mehrere derartige Fälle auftreten, kann auch die gesamte Wahl abgebrochen und verschoben werden (*Korrekturrecht*).
 ]
 
 == Modalitäten der Regelwahl <mandat_wahlmodalitaeten>
 === Durchführung <wahl_durchfuehrung>
-Einmal jährlich, zum Ende der Saison im November soll eine Regelwahl durch die Regelhütenden durchgeführt werden. Dazu wird ein geeignetes Umfragetool verwendet. Die Ergebnisse der Wahl werden im Anschluss veröffentlicht und zusätzlich unabhängig vom Forum archiviert.\
+Eine Regelwahl soll zum Ende der Saison im November durch die Regelhütenden durchgeführt werden. Dazu wird ein geeignetes Umfragetool verwendet. Die Ergebnisse der Wahl werden im Anschluss veröffentlicht und zusätzlich unabhängig vom Forum archiviert.\
 Der Ablauf der Regelwahl sieht wie folgt aus:
 
 + Bekanntgabe des Wahltermins
@@ -166,7 +176,10 @@ Der Ablauf der Regelwahl sieht wie folgt aus:
 + Veröffentlichung der Ergebnisse
 + Veröffentlichen des neuen Regelwerks
 
-Die Kommunikation zur Regelwahl findet im Juggerforum statt und wird durch anlass-bezogene E-Mails an den Regelhüterverteiler unterstützt.
+Die Kommunikation zur Regelwahl findet im Juggerforum statt.
+
+In Ausnahmefällen dürfen mehrere Regelwahlen innerhalb eines Jahres durchgeführt werden, oder die Regelwahl darf verschoben werden.
+
 
 === Wahlrecht <wahl_wahlrecht>
 Um sich zu qualifizieren, muss ein Team an mindestens drei Turnieren teilgenommen haben, für die jeweils die nachfolgenden Voraussetzungen erfüllt sind.
@@ -181,7 +194,7 @@ Zusätzlich müssen mindestens zwei dieser drei Turniere in unterschiedlichen de
 
 Diese Bedingungen sollen sicherstellen, dass Teams ihre Regelbubble verlassen und im Austausch mit verschiedenen Teams stehen.
 
-Teams müssen einmal im Lauf des Jahres einmal per Email oder im Forum angeben, dass sie an der Qualifizierung zur Regelwahl teilnehmen möchten. Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben. Dies soll so niederschwellig wie möglich stattfinden. Wenn es möglich ist, möchten wir eine Checkbox im JTR ergänzen, um die Teilnahme an der Qualifizierung zu bestätigen.\
+Teams müssen sich im Vorlauf der Wahl für die  Qualifizierung zur Regelwahl registrieren. Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben. Dazu ist ein Formular auf #weblink(display:"jugger.org", url:"https://www.jugger.org/regelhuetende") eingerichtet.\
 Die Regelwahl ist offen für internationale Teams. Die Kommunikation der Regelhütenden läuft exklusiv auf Deutsch, um den Aufwand zu begrenzen.
 
 === Abstimmungspunkte und Wahlverfahren <wahl_inhalte>
@@ -196,6 +209,8 @@ Das *Quorum* für die Annahme der Regelwahl liegt bei ⅔ aller qualifizierten T
 Regelthemen, die abgelehnt oder mit ⅔-Mehrheit bestätigt wurden, werden für ein Jahr (im Regelfall für die folgenden Wahl) gesperrt.
 
 == Modalitäten der Regelhütendenwahl <wahl_regelhuetis>
+Zum Zeitpunkt der Erstellung dieses Mandats ist noch offen, ob die Wahl der Regelhütenden zukünftig durch den Verband durchgeführt wird. Sollte die Jugger-Gemeinschaft sich dagegen entscheiden, liegt es weiter in der Verantwortung der Regelhütenden die Wahl der Regelhütenden durchzuführen. Für diesen Fall gilt der unten stehende Absatz.
+
 Die Wahl der Regelhütenden findet zusammen mit der jährlichen Regelwahl statt. Zur Wahl stehen Gruppen oder Einzelpersonen von Regelhütenden zusammen mit ihrem Mandat. Der Umfang und die Inhalte der Mandate sind den Bewerbenden überlassen.
 Stehen nur zwei Mandate zur Wahl, gewinnt das Mandat mit einer einfachen Mehrheit. Stehen mehr als zwei Mandate zur Wahl, wird das Wahlverfahren #stv angewendet.
 Wir empfehlen, dass sich Regelhütenden-Teams aus mindestens drei Personen zusammensetzten.
