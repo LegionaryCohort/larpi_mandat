@@ -180,6 +180,8 @@ Die Kommunikation zur Regelwahl findet im Juggerforum statt.
 
 In Ausnahmefällen dürfen mehrere Regelwahlen innerhalb eines Jahres durchgeführt werden, oder die Regelwahl darf verschoben werden.
 
+#todo("Modalitäten für verkürzte oder verlängerte Wahlzeiträume")
+
 
 === Wahlrecht <wahl_wahlrecht>
 Um sich zu qualifizieren, muss ein Team an mindestens drei Turnieren teilgenommen haben, für die jeweils die nachfolgenden Voraussetzungen erfüllt sind.
