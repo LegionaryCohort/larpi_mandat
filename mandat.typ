@@ -92,7 +92,7 @@
     "Anpassung, um mehrere Wahlen pro Jahr zuzulassen",
     [@wahl_wahlrecht],
     [
-      Formulierung der Qualifikationsbedingungen wurde verbessert\
+      Formulierung der Qualifikationsbedingungen wurde angepasst, um den Fall von mehreren Wahlen mit abzudecken\
       Link zum Formular für Wahlregistrierungen ergänzt
     ],
     [@wahl_regelhuetis],
