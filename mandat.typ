@@ -146,7 +146,7 @@ Wir stellen uns für das folgende Mandat mit folgenden Pflichten und Rechten zur
 + Regelentwürfe
 #todo("ausformulieren")
 
-Alle Änderungen werden im GitHub Repo dokumentiert. Es ist die Single Source of Truth. Das heißt, das der Formulierungstext dort hinterlegt ist und im Jugger-Forum zusammen mit erläuternden Text verlinkt wird. Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zuvermeiden und Zeit zu sparen, da wir die aufwendige Formatierung von Forumspost reduzieren können.
+Alle Änderungen werden im GitHub Repo dokumentiert. Es ist die Single Source of Truth. Das heißt, dass der Formulierungstext dort hinterlegt ist und im Jugger-Forum zusammen mit erläuternden Text verlinkt wird. Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zu vermeiden und Zeit zu sparen, da wir so die aufwendige Formatierung von Forumsposts reduzieren können.
 
 == Entwicklungsprozess für Regelentwürfe <mandat_prozess>
 Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestellt und wird im weiteren erläutert.
