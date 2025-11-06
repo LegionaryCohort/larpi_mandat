@@ -2,7 +2,7 @@
 #import "util/todo.typ": todo
 
 #set par(justify: true)
-#set page(margin: 2.8cm)
+#set page(margin: 2.5cm)
 #set text(lang: "de")
 
 #set heading(numbering: none)
@@ -37,13 +37,6 @@
   }
 }, full: true, indent: 15pt, spacing: 10pt)
 #set list(indent: 15pt, spacing: 10pt)
-#show ref: it => {
-  let el = it.element
-  let loc = el.location()
-  if el != none and el.func() == heading [
-    #it\ #link(loc, el.body)
-  ]
-}
 
 #let stv = [
   #weblink(
@@ -71,17 +64,41 @@
 #set page(numbering: "1")
 
 = Änderungstabelle
-#table(
-  columns: (1fr, 3fr),
-  [@wahl_wahlrecht],
-  [
-    Die Formulierung der Qualifikationsbedingungen wurde verbessert.\
-    Die konkreten inhaltlichen Änderungen sind #weblink(
-      display: "hier",
-      url: "https://github.com/LegionaryCohort/larpi_mandat/commit/b19758ebd8367f7ad9917151a657d34fd12e22ae",
-    ) zu finden.
-  ],
-)
+
+#todo("Vollständigen Diff mit Link einfügen")
+
+#{
+  show ref: it => {
+    let el = it.element
+    let loc = el.location()
+    let pageref = link(loc, [Seite #numbering(loc.page-numbering(), ..counter(page).at(loc))])
+    numbering(loc.page-numbering())
+    if el != none and el.func() == heading [
+      #pageref - #it\ #link(loc, el.body)
+    ]
+  }
+
+  table(
+    columns: (4.5cm, 1fr),
+    [@einleitung],
+    "Der erste Absatz wurde für die Wahl 2026 aktualisiert.",
+    [@mandat_rechte],
+    "Redigierungsrecht ergänzt",
+    [@mandat_RW_prozess],
+    "Neuer Abschnitt hinzugefügt, um den Gesamtprozess von dem Prozess für Entwürfe abzugrenzen",
+    [@mandat_prozess],
+    "Benennung der konkreten Rechte hervorgehoben",
+    [@wahl_durchfuehrung],
+    "Anpassung, um mehrere Wahlen pro Jahr zuzulassen",
+    [@wahl_wahlrecht],
+    [
+      Formulierung der Qualifikationsbedingungen wurde verbessert\
+      Link zum Formular für Wahlregistrierungen ergänzt
+    ],
+    [@wahl_regelhuetis],
+    "Anmerkung zur Übergabe der Regelhütendenwahl an den Verband ergänzt",
+  )
+}
 
 #set heading(numbering: "1.1")
 
@@ -225,8 +242,11 @@ Diese Bedingungen sollen sicherstellen, dass Teams ihre Regelbubble verlassen un
 
 Der Beginn des Qualifikationszeitraum ist im Regelfall mindestens ein Jahr lang. Liegt das Ende des Qualifikationszeitraum der vorhergegangen Wahl länger als ein Jahr zurück, beginnt der Qualifikationszeitraum ab dort. So kann jedes Turnier in der ein oder anderen Qualifikation beachtet werden. Sollte die letzte Regelwahl weniger als ein Jahr zurückliegen, kann es sein, dass ein Turnier für mehrere Qualifikationen zählen kann.
 
-Teams müssen sich im Vorlauf der Wahl für die Qualifizierung zur Regelwahl registrieren. Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben. Dazu ist ein Formular auf #weblink(display: "jugger.org", url: "https://www.jugger.org/regelhuetende") eingerichtet.\
-Die Regelwahl ist offen für internationale Teams. Die Kommunikation der Regelhütenden läuft exklusiv auf Deutsch, um den Aufwand zu begrenzen.
+Teams müssen sich im Vorlauf der Wahl für die Qualifizierung zur Regelwahl registrieren.
+Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben.
+Dazu ist ein Formular auf #weblink(display: "jugger.org", url: "https://www.jugger.org/regelhuetende") eingerichtet.\
+Die Regelwahl ist offen für internationale Teams.
+Die Kommunikation der Regelhütenden läuft exklusiv auf Deutsch, um den Aufwand zu begrenzen.
 
 === Abstimmungspunkte und Wahlverfahren <wahl_inhalte>
 *Änderungen* entsprechen den vorher ausgearbeiteten Regelentwürfen.
