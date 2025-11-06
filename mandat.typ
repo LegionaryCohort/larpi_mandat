@@ -81,24 +81,33 @@
   table(
     columns: (4.5cm, 1fr),
     [@einleitung],
-    "Der erste Absatz wurde für die Wahl 2026 aktualisiert.",
+    [
+      Erster Absatz für die Wahl 2026 aktualisiert.\
+      Letzter Absatz zu Mandatsanpassungen überarbeitet.
+    ],
     [@mandat_rechte],
-    "Redigierungsrecht ergänzt",
+    "Redigierungsrecht ergänzt.",
     [@mandat_RW_prozess],
-    "Neuer Abschnitt hinzugefügt, um den Gesamtprozess von dem Prozess für Entwürfe abzugrenzen",
+    "Neuer Abschnitt hinzugefügt, um den Gesamtprozess von dem Prozess für Entwürfe abzugrenzen.",
     [@mandat_prozess],
-    "Benennung der konkreten Rechte hervorgehoben",
+    [
+      Umgang mit der Arbeitsliste angepasst.\
+      Benennung der konkreten Rechte hervorgehoben.
+    ],
     [@wahl_durchfuehrung],
-    "Anpassung, um mehrere Wahlen pro Jahr zuzulassen",
+    "Anpassung, um mehrere Wahlen pro Jahr zuzulassen.",
     [@wahl_wahlrecht],
     [
-      Formulierung der Qualifikationsbedingungen wurde angepasst, um den Fall von mehreren Wahlen mit abzudecken\
-      Link zum Formular für Wahlregistrierungen ergänzt
+      Formulierung der Qualifikationsbedingungen wurde angepasst, um den Fall von mehreren Wahlen mit abzudecken.\
+      Link zum Formular für Wahlregistrierungen ergänzt.
     ],
     [@wahl_regelhuetis],
-    "Anmerkung zur Übergabe der Regelhütendenwahl an den Verband ergänzt",
+    "Anmerkung zur Übergabe der Regelhütendenwahl an den Verband ergänzt.",
   )
 }
+
+#todo("Ergänzen: Anpassung Einleitung Mandatsanpassung")
+#todo("Ergänzen: Anpassung Arbeitsliste unter 2.4")
 
 #set heading(numbering: "1.1")
 
@@ -110,8 +119,8 @@ Allerdings haben wir einige Anpassungen vorgenommen, die uns jetzt, mit einem Ja
 Im Folgenden legen wir dar, mit welchen Absichten und Vorstellungen wir an das gesamte Thema herantreten wollen.
 Wir nehmen außerdem am Dokumentenende Stellung zu einigen Fragen, die sicherlich aufkommen werden.
 
-#todo("Braucht es den nachfolgenden Absatz noch?")
-Wir beabsichtigen das Mandat bis zu der kommenden Wahl der Regelhütenden auf Grundlage von Feedback aus der Gemeinschaft anzupassen und das FAQ aktuell zu halten.
+Wir beabsichtigen, wie bisher auch, Feedback aus der Gemeinschaft aufzunehmen und unser Mandat für die nächste Wahl ggf. anzupassen.
+Ebenso bemühen wir uns das FAQ (siehe @faq) aktuell zu halten.
 
 == Definition der Begriffe “Regelidee” und “Regelentwurf” <definition_begriffe>
 Vorab möchten wir einige Begriffe definieren, die wir im weiteren Text häufig verwenden werden.
@@ -166,9 +175,9 @@ Korrekturen von Zeichen- oder Satzfehler dürfen auch ohne Regelwahl durchgefüh
 
 === Redigierungen <redigierungen>
 Redigierungen sind Anpassungen am Regelwerk ohne inhaltliche Änderungen.
-Sie sind typischerweise Korrekturen, Umstellungen von Sätzen, Ändern der Formatierung oder kleinere Umformulierungen, insbesondere zum Angleichen von Formulierungen aneinander.
-Redigierungen müssen nicht mit in der Regelwahl nur zur Abstimmung gestellt werden.
-Wenn sich das Regelwerk durch Redigierungen signifikant verändernt, sollte diese Version in einer Regelwahl bestätigt werden.
+Sie sind typischerweise Korrekturen, Umstellungen von Sätzen, Änderungen der Formatierung oder kleinere Umformulierungen, insbesondere zum Angleichen von Formulierungen aneinander.
+Redigierungen müssen nicht mit in der Regelwahl zur Abstimmung gestellt werden.
+Wenn sich das Regelwerk durch Redigierungen signifikant verändert, sollte diese Version in einer Regelwahl bestätigt werden.
 
 === Regelentwürfe <regelentwuerfe>
 Regelentwürfe ändern Regeln oder Definitionen innerhalb des Regelwerks.
@@ -178,8 +187,10 @@ Sie basieren im Regelfall auf eingebrachten Regelideen.
 === Dokumentation von Änderungen <doc_change>
 Alle Änderungen werden im #weblink(display: "GitHub Repo", url: "https://github.com/JuggerGermany/Regelwerk") dokumentiert.
 Es ist die Single Source of Truth.
-Das heißt, das der Formulierungstext dort hinterlegt ist und im #weblink(display: "Jugger-Regelforum", url: "https://forum.jugger.org/viewforum.php?f=5") zusammen mit erläuternden Text verlinkt wird.
-Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zu vermeiden und Zeit zu sparen, da wir die aufwendige Formatierung von Forumspost reduzieren können.
+Das heißt, dass der Formulierungstext dort hinterlegt ist und im #weblink(display: "Jugger-Regelforum", url: "https://forum.jugger.org/viewforum.php?f=5") zusammen mit erläuternden Text verlinkt wird.
+Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zu vermeiden und Zeit zu sparen, da wir so die aufwendige Formatierung von Forumsposts reduzieren können.
+
+#pagebreak()
 
 == Entwicklungsprozess für Regelentwürfe <mandat_prozess>
 Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestellt und wird im weiteren erläutert.
@@ -191,13 +202,11 @@ Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestell
 )[#image("regel_prozess.svg", width: 100%)][
   Regelideen werden von der Gemeinschaft oder auch uns (*Vorschlagsrecht*) auf verschiedene Kommunikationswege eingebracht und werden im Jugger-Regelforum dokumentiert.
   Regelideen beinhalten mindestens eine Absicht, können aber auch Formulierungsvorschläge enthalten.
-  #todo("Wollen wir uns weiterhin auf die Anzahl der Tagungen festlegen?")
-  Im Jahr führen wir zwei bis vier Regeltagungen durch, um Regelentwürfe zu entwickeln.
-  #todo("Arbeitsliste entspricht nicht der Realität")
-  Die Zeitpunkte und die Arbeitsliste werden im Vorfeld bekannt gegeben.
-  Wir behalten uns vor, Regelideen begründet nicht auf die Arbeitsliste zu setzen (*Priorisierungsrecht* und *Vetorecht*).\
-  Auf den Tagungen versuchen wir Regelhütenden vollständige Regelentwürfe zu entwickeln.
-  Sie beinhalten die Formulierung des Regeltextes, ein Absichtserklärung entsprechend der Regelidee und eine Einschätzung der Regelhütenden, was die Änderung in der Spielpraxis bewirken wird.\
+  Wir führen eine Arbeitsliste über alle Regelideen, die wir auf Regeltagungen bearbeiten wollen.
+  Wir behalten uns vor, Regelideen begründet nicht auf die Arbeitsliste zu setzen (*Vetorecht*).
+  Im Jahr führen wir mindestens 2 Regeltagungen durch (im Regelfall 3 bis 5).
+  Zu jeder Tagung bearbeiten wir ausgewählte Themen von der Arbeitsliste (*Priorisierungsrecht*) und versuchen daraus Redigierungen und/oder Regelentwürfe zu entwickeln.
+  Regelentwürfe beinhalten die Formulierung des Regeltextes, ein Absichtserklärung entsprechend der Regelidee und eine Einschätzung der Regelhütenden, was die Änderung in der Spielpraxis bewirken wird.\
   Beim Erarbeiten der Formulierungen achten wir darauf, dass sie widerspruchsfrei zu den bestehenden Formulierungen des Regelwerks sind, dem Wording des Regelwerks entsprechen und geeignet sind, um die Absicht des Entwurfs zu erfüllen.\
   Vollständige Regelentwürfe, die zur nächsten Wahl gestellt werden sollen, werden veröffentlicht.
   Sie können dann getestet werden.
