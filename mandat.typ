@@ -144,33 +144,25 @@ Es gibt zwei Arten von Änderungen am Regelwerk:
 + Redigierungen
 + Regelentwürfe
 
-<<<<<<< HEAD
-
-Änderungen am Regelwerk werden im Anschluss an eine Regelwahl in das Regelwerk übernommen und als neue Regelwerksversion veröffentlicht. 
+Änderungen am Regelwerk werden im Anschluss an eine Regelwahl in das Regelwerk übernommen und als neue Regelwerksversion veröffentlicht.
 Korrekturen von Zeichen- oder Satzfehler dürfen auch ohne Regelwahl durchgeführt und in einer Regelwerksversion veröffentlicht werden.
 
 === Redigierungen <redigierungen>
-Redigierungen sind Anpassungen am Regelwerk ohne inhaltliche Änderungen. 
-Sie sind typischerweise Korrekturen, Umstellungen von Sätzen, Ändern der Formatierung oder kleinere Umformulierungen, insbesondere zum Angleichen von Formulierungen aneinander. 
-Redigierungen müssen nicht mit in der Regelwahl nur zur Abstimmung gestellt werden. 
+Redigierungen sind Anpassungen am Regelwerk ohne inhaltliche Änderungen.
+Sie sind typischerweise Korrekturen, Umstellungen von Sätzen, Ändern der Formatierung oder kleinere Umformulierungen, insbesondere zum Angleichen von Formulierungen aneinander.
+Redigierungen müssen nicht mit in der Regelwahl nur zur Abstimmung gestellt werden.
 Wenn sich das Regelwerk durch Redigierungen signifikant verändernt, sollte diese Version in einer Regelwahl bestätigt werden.
 
 === Regelentwürfe <regelentwuerfe>
 Regelentwürfe ändern Regeln oder Definitionen innerhalb des Regelwerks.
-Sie basieren im Regelfall auf eingebrachten Regelideen. 
+Sie basieren im Regelfall auf eingebrachten Regelideen.
 Ändern Regelentwürfe die Spielpraxis sind sie im Regelfall zu testen, bevor sie in einer Regelwahl zur Abstimmung gestellt werden.
 
 === Dokumentation von Änderungen <doc_change>
-Alle Änderungen werden im #weblink(display: "GitHub Repo", url: "https://github.com/JuggerGermany/Regelwerk") dokumentiert. 
-Es ist die Single Source of Truth. 
-Das heißt, das der Formulierungstext dort hinterlegt ist und im #weblink(display: "Jugger-Regelforum", url: "https://forum.jugger.org/viewforum.php?f=5") zusammen mit erläuternden Text verlinkt wird. 
-Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zu vermeiden und Zeit zu sparen, da wir die aufwendige Formatierung von Forumspost reduzieren können.
-=======
-Alle Änderungen werden im GitHub Repo dokumentiert.
+Alle Änderungen werden im #weblink(display: "GitHub Repo", url: "https://github.com/JuggerGermany/Regelwerk") dokumentiert.
 Es ist die Single Source of Truth.
-Das heißt, dass der Formulierungstext dort hinterlegt ist und im Jugger-Forum zusammen mit erläuternden Text verlinkt wird.
-Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zu vermeiden und Zeit zu sparen, da wir so die aufwendige Formatierung von Forumsposts reduzieren können.
->>>>>>> 1351fbd87c0248c5a78758750c4432be800424c1
+Das heißt, das der Formulierungstext dort hinterlegt ist und im #weblink(display: "Jugger-Regelforum", url: "https://forum.jugger.org/viewforum.php?f=5") zusammen mit erläuternden Text verlinkt wird.
+Wir haben uns für dieses Vorgehen entschieden, um Übertragungsfehler zu vermeiden und Zeit zu sparen, da wir die aufwendige Formatierung von Forumspost reduzieren können.
 
 == Entwicklungsprozess für Regelentwürfe <mandat_prozess>
 Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestellt und wird im weiteren erläutert.
@@ -217,12 +209,7 @@ Der Ablauf der Regelwahl sieht wie folgt aus:
 Die Kommunikation zur Regelwahl findet im Juggerforum statt.
 
 In Ausnahmefällen dürfen mehrere Regelwahlen innerhalb eines Jahres durchgeführt werden, oder die Regelwahl darf verschoben werden.
-<<<<<<< HEAD
 Die Gründe sind jeweils von den Regelhütenden spätestens zusammen mit der Wahl bekanntzugeben.
-=======
-
-#todo("Modalitäten für verkürzte oder verlängerte Wahlzeiträume")
->>>>>>> 1351fbd87c0248c5a78758750c4432be800424c1
 
 === Wahlrecht <wahl_wahlrecht>
 Um sich zu qualifizieren, muss ein Team an mindestens drei Turnieren teilgenommen haben, für die jeweils die nachfolgenden Voraussetzungen erfüllt sind.
@@ -236,18 +223,10 @@ Zusätzlich müssen mindestens zwei dieser drei Turniere in unterschiedlichen de
 
 Diese Bedingungen sollen sicherstellen, dass Teams ihre Regelbubble verlassen und im Austausch mit verschiedenen Teams stehen.
 
-<<<<<<< HEAD
 Der Beginn des Qualifikationszeitraum ist im Regelfall mindestens ein Jahr lang. Liegt das Ende des Qualifikationszeitraum der vorhergegangen Wahl länger als ein Jahr zurück, beginnt der Qualifikationszeitraum ab dort. So kann jedes Turnier in der ein oder anderen Qualifikation beachtet werden. Sollte die letzte Regelwahl weniger als ein Jahr zurückliegen, kann es sein, dass ein Turnier für mehrere Qualifikationen zählen kann.
 
-Teams müssen sich im Vorlauf der Wahl für die  Qualifizierung zur Regelwahl registrieren. Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben. Dazu ist ein Formular auf #weblink(display:"jugger.org", url:"https://www.jugger.org/regelhuetende") eingerichtet.\
+Teams müssen sich im Vorlauf der Wahl für die Qualifizierung zur Regelwahl registrieren. Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben. Dazu ist ein Formular auf #weblink(display: "jugger.org", url: "https://www.jugger.org/regelhuetende") eingerichtet.\
 Die Regelwahl ist offen für internationale Teams. Die Kommunikation der Regelhütenden läuft exklusiv auf Deutsch, um den Aufwand zu begrenzen.
-=======
-Teams müssen sich im Vorlauf der Wahl für die Qualifizierung zur Regelwahl registrieren.
-Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben.
-Dazu ist ein Formular auf #weblink(display: "jugger.org", url: "https://www.jugger.org/regelhuetende") eingerichtet.\
-Die Regelwahl ist offen für internationale Teams.
-Die Kommunikation der Regelhütenden läuft exklusiv auf Deutsch, um den Aufwand zu begrenzen.
->>>>>>> 1351fbd87c0248c5a78758750c4432be800424c1
 
 === Abstimmungspunkte und Wahlverfahren <wahl_inhalte>
 *Änderungen* entsprechen den vorher ausgearbeiteten Regelentwürfen.
