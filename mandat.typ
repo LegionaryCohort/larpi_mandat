@@ -64,8 +64,11 @@
 #set page(numbering: "1")
 
 = Änderungstabelle
-
-#todo("Vollständigen Diff mit Link einfügen")
+Eine vollständige Übersicht über alle Änderungen zwischen diesem Mandat und dem Mandat, mit dem wir für 2025 gewählt wurden, kann #weblink(
+  display: "hier",
+  url: "https://github.com/LegionaryCohort/larpi_mandat/compare/v1.0_2025...Mandat-2026",
+) auf GitHub eingesehen werden.\
+Die nachfolgende Tabelle gibt einen Überblick über die inhaltlichen Änderungen:
 
 #{
   show ref: it => {
@@ -105,9 +108,6 @@
     "Anmerkung zur Übergabe der Regelhütendenwahl an den Verband ergänzt.",
   )
 }
-
-#todo("Ergänzen: Anpassung Einleitung Mandatsanpassung")
-#todo("Ergänzen: Anpassung Arbeitsliste unter 2.4")
 
 #set heading(numbering: "1.1")
 
