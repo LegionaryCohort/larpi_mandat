@@ -2,7 +2,7 @@
 #import "util/todo.typ": todo
 
 #set par(justify: true)
-#set page(margin: 2.8cm)
+#set page(margin: 2.5cm)
 #set text(lang: "de")
 
 #set heading(numbering: none)
@@ -37,13 +37,6 @@
   }
 }, full: true, indent: 15pt, spacing: 10pt)
 #set list(indent: 15pt, spacing: 10pt)
-#show ref: it => {
-  let el = it.element
-  let loc = el.location()
-  if el != none and el.func() == heading [
-    #it\ #link(loc, el.body)
-  ]
-}
 
 #let stv = [
   #weblink(
@@ -71,17 +64,41 @@
 #set page(numbering: "1")
 
 = Änderungstabelle
-#table(
-  columns: (1fr, 3fr),
-  [@wahl_wahlrecht],
-  [
-    Die Formulierung der Qualifikationsbedingungen wurde verbessert.\
-    Die konkreten inhaltlichen Änderungen sind #weblink(
-      display: "hier",
-      url: "https://github.com/LegionaryCohort/larpi_mandat/commit/b19758ebd8367f7ad9917151a657d34fd12e22ae",
-    ) zu finden.
-  ],
-)
+
+#todo("Vollständigen Diff mit Link einfügen")
+
+#{
+  show ref: it => {
+    let el = it.element
+    let loc = el.location()
+    let pageref = link(loc, [Seite #numbering(loc.page-numbering(), ..counter(page).at(loc))])
+    numbering(loc.page-numbering())
+    if el != none and el.func() == heading [
+      #pageref - #it\ #link(loc, el.body)
+    ]
+  }
+
+  table(
+    columns: (4.5cm, 1fr),
+    [@einleitung],
+    "Der erste Absatz wurde für die Wahl 2026 aktualisiert.",
+    [@mandat_rechte],
+    "Redigierungsrecht ergänzt",
+    [@mandat_RW_prozess],
+    "Neuer Abschnitt hinzugefügt, um den Gesamtprozess von dem Prozess für Entwürfe abzugrenzen",
+    [@mandat_prozess],
+    "Benennung der konkreten Rechte hervorgehoben",
+    [@wahl_durchfuehrung],
+    "Anpassung, um mehrere Wahlen pro Jahr zuzulassen",
+    [@wahl_wahlrecht],
+    [
+      Formulierung der Qualifikationsbedingungen wurde verbessert\
+      Link zum Formular für Wahlregistrierungen ergänzt
+    ],
+    [@wahl_regelhuetis],
+    "Anmerkung zur Übergabe der Regelhütendenwahl an den Verband ergänzt",
+  )
+}
 
 #set heading(numbering: "1.1")
 
