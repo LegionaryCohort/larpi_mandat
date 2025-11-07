@@ -68,7 +68,7 @@ Eine vollständige Übersicht über alle Änderungen zwischen diesem Mandat und 
   display: "hier",
   url: "https://github.com/LegionaryCohort/larpi_mandat/compare/v1.0_2025...Mandat-2026",
 ) auf GitHub eingesehen werden.\
-Die nachfolgende Tabelle gibt einen Überblick über die inhaltlichen Änderungen:
+Die nachfolgende Tabelle gibt einen Überblick über die wesentlichen inhaltlichen Änderungen. Änderung in Detail-Formulierungen o.ä. werden hier nicht aufgeführt.
 
 #{
   show ref: it => {
@@ -104,6 +104,8 @@ Die nachfolgende Tabelle gibt einen Überblick über die inhaltlichen Änderunge
       Formulierung der Qualifikationsbedingungen wurde angepasst, um den Fall von mehreren Wahlen mit abzudecken.\
       Link zum Formular für Wahlregistrierungen ergänzt.
     ],
+    [@wahl_inhalte],
+    "Ergänzende Klarstellung zu Redigierungen",
     [@wahl_regelhuetis],
     "Anmerkung zur Übergabe der Regelhütendenwahl an den Verband ergänzt.",
   )
