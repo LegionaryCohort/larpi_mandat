@@ -88,6 +88,8 @@ Die nachfolgende Tabelle gibt einen Überblick über die wesentlichen inhaltlich
       Erster Absatz für die Wahl 2026 aktualisiert.\
       Letzter Absatz zu Mandatsanpassungen überarbeitet.
     ],
+    [@mandat_pflichten],
+    "Pflicht bzgl. Veröffentlichung des Regelwerks erweitert",
     [@mandat_rechte],
     "Redigierungsrecht ergänzt.",
     [@mandat_RW_prozess],
@@ -157,7 +159,10 @@ Unsere Pflichten, Rechte und der Prozess leiten sich aus unseren Zielen und Meth
   + Bekanntgeben der zur Wahl stehenden Regelentwürfe
   + Durchführen der Wahl
   + Auswerten der Wahl
-+ Erstellen und Aktualisieren des Regelwerks (Dokument)
++ Veröffentlichen des Regelwerk-Dokuments
+  + Pflegen des Regelwerks auf einer öffentlich zugänglichen Plattform
+  + Aktualisieren des Regelwerks anhand der Abstimmungsergebnisse
+  + Erstellen des offiziell gültigen Regelwerk-Dokuments
 
 == Rechte <mandat_rechte>
 - Regelideen einbringen (Vorschlagsrecht)
