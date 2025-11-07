@@ -497,6 +497,12 @@ Das heißt nicht, dass wir nicht prinzipiell bereit sind, mit anderen Menschen z
 Der mittel- bis langfristige Plan ist ja auch, dieses Amt stückweise abzugeben und neue Regelhütis einzuarbeiten (sofern das System bleiben soll).
 Allerdings ist eine Etablierung unseres Systems in einer Gruppe, die sich vorher detailliert damit auseinandergesetzt hat, zeiteffizienter und einfacher möglich.
 
+==== Was ist, wenn eure Variante der Regelhütung nicht funktioniert?
+Wenn wir gewählt werden und die Mehrheit der Jugger-Gemeinschaft nach dieser Zeit unzufrieden mit den Resultaten ist, sollten wir nicht wiedergewählt werden.
+Andere Kandidaten können für die Regelhütendenwahl mit ihrem Mandat ein anderes System festlegen.
+Im allerschlimmsten Fall können alle vorgeschlagenen Entwürfe in der Wahl abgelehnt werden.
+Damit würde ein Jahr Regelbearbeitung verloren gehen, aber kein nachhaltiger Effekt spürbar werden.
+
 ==== Wie wollt ihr eure hohen Ziele messen?
 Wir haben versucht, möglichst klar auszuformulieren, was unser Anspruch und unsere Ziele sind.
 Natürlich werden wir uns daran orientieren, aber letztendlich obliegt es der Gemeinschaft, unsere Arbeit zu bewerten und ggf. von einer Wiederwahl abzusehen.
