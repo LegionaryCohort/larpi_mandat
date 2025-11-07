@@ -126,7 +126,7 @@ Ebenso bemühen wir uns das FAQ (siehe @faq) aktuell zu halten.
 
 == Definition der Begriffe “Regelidee” und “Regelentwurf” <definition_begriffe>
 Vorab möchten wir einige Begriffe definieren, die wir im weiteren Text häufig verwenden werden.
-Wir verzichten auf die Verwendung von _Regelvorschlag_, da dieser Begriff zur Zeit für Verschiedenstes genutzt wird.
+Wir verzichten auf die Verwendung von _Regelvorschlag_, da dieser Begriff bereits mit verschiedenen Bedeutungen verwendet wurde.
 An seiner Stelle verwenden wir die Begriffe _Regelidee_ und _Regelentwurf_.\
 *Regelidee* ist ein Sammelbegriff für alle Vorschläge, Anregungen und Wünsche, die aus der Gemeinschaft zum Regelwerk kommen.
 Regelideen können auch Formulierungsvorschläge für Regeltexte enthalten.
