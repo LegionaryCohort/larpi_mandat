@@ -56,6 +56,8 @@
   ]
   v(0pt)
   text(size: 20pt)[Helene G., Mario T. & Max V.]
+  v(2cm)
+  text(size: 15pt, style: "italic")[Version 2.0 - 2026]
 }
 
 #outline(title: "Inhaltsverzeichnis", depth: 3)
