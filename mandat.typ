@@ -251,9 +251,9 @@ Zusätzlich müssen mindestens zwei dieser drei Turniere in unterschiedlichen de
 
 Diese Bedingungen sollen sicherstellen, dass Teams ihre Regelbubble verlassen und im Austausch mit verschiedenen Teams stehen.
 
-Der Beginn des Qualifikationszeitraum ist im Regelfall mindestens ein Jahr lang. 
-Liegt das Ende des Qualifikationszeitraum der vorhergegangen Wahl länger als ein Jahr zurück, beginnt der Qualifikationszeitraum ab dort. 
-So kann jedes Turnier in der ein oder anderen Qualifikation beachtet werden. 
+Der Beginn des Qualifikationszeitraum ist im Regelfall mindestens ein Jahr lang.
+Liegt das Ende des Qualifikationszeitraum der vorhergegangen Wahl länger als ein Jahr zurück, beginnt der Qualifikationszeitraum ab dort.
+So kann jedes Turnier in der ein oder anderen Qualifikation beachtet werden.
 Sollte die letzte Regelwahl weniger als ein Jahr zurückliegen, ist es möglich, dass ein Turnier für mehrere Qualifikationen zählt.
 
 Teams müssen sich im Vorlauf der Wahl für die Qualifizierung zur Regelwahl registrieren.
@@ -476,7 +476,7 @@ Uns ist bewusst, dass unsere Vorstellungen zeitintensiv sind.
 Um eine effiziente Einteilung zu ermöglichen, möchten wir so verfahren, wie unter Prozess dargestellt.
 Dadurch soll die Alltagsbelastung so gering wie möglich sein und gleichmäßig über das Jahr verteilt werden.
 Gleichzeitig haben wir uns in dieser Gruppe gefunden, weil wir uns aufeinander verlassen und Arbeitsteilung möglich ist.
-Mit der Erfahrung der veragngenen Amtszeit können wir sagen, dass wir das Arbeitspensum gut verwalten können.
+Mit der Erfahrung der vergangenen Amtszeit können wir sagen, dass wir das Arbeitspensum gut verwalten können.
 
 ==== Was ist, wenn ich eure Idee prinzipiell gut finde, aber einzelne Personen nicht in eurem Team sehen möchte?
 Wir sind der Meinung, dass jede*r von uns wichtigen Input und Fähigkeiten mitbringt, die der Regelarbeit im vorgeschlagenen Sinne zuträglich sind.
