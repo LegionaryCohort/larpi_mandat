@@ -204,16 +204,16 @@ Der Prozess zum Entwickeln von Regelvorschlägen ist hier schematisch dargestell
   Regelideen beinhalten mindestens eine Absicht, können aber auch Formulierungsvorschläge enthalten.
   Wir führen eine Arbeitsliste über alle Regelideen, die wir auf Regeltagungen bearbeiten wollen.
   Wir behalten uns vor, Regelideen begründet nicht auf die Arbeitsliste zu setzen (*Vetorecht*).
-  Im Jahr führen wir mindestens 2 Regeltagungen durch (im Regelfall 3 bis 5).
-  Zu jeder Tagung bearbeiten wir ausgewählte Themen von der Arbeitsliste (*Priorisierungsrecht*) und versuchen daraus Redigierungen und/oder Regelentwürfe zu entwickeln.
+  Im Jahr führen wir mindestens zwei Regeltagungen durch (wir gehen von drei bis fünf aus).
+  Zu jeder Tagung bearbeiten wir ausgewählte Themen von der Arbeitsliste (*Priorisierungsrecht*) und versuchen daraus Redigierungen und~/~oder Regelentwürfe zu entwickeln.
   Regelentwürfe beinhalten die Formulierung des Regeltextes, ein Absichtserklärung entsprechend der Regelidee und eine Einschätzung der Regelhütenden, was die Änderung in der Spielpraxis bewirken wird.\
   Beim Erarbeiten der Formulierungen achten wir darauf, dass sie widerspruchsfrei zu den bestehenden Formulierungen des Regelwerks sind, dem Wording des Regelwerks entsprechen und geeignet sind, um die Absicht des Entwurfs zu erfüllen.\
   Vollständige Regelentwürfe, die zur nächsten Wahl gestellt werden sollen, werden veröffentlicht.
   Sie können dann getestet werden.
   Sollten Regelentwürfe nicht ausreichend praxisgetestet sein, werden sie nicht zur Wahl zugelassen.
-  Diese Einschätzung übernehmen wir auf Grundlage von Rückmeldungen der Turnierausrichtenden.\
+  Diese Einschätzung treffen wir auf Grundlage von Rückmeldungen der Turnierausrichtenden.\
   Die Wahl wird mit allen geeigneten Regelentwürfen vorbereitet und Ende der Saison durchgeführt.
-  Sollten unerwartet während der laufenden Wahl fundamentale Fehler in den Entwürfen erkannt werden, können wir Abstimmungspunkte aus der Wahl entfernen.
+  Sollten unerwartet während der laufenden Wahl fundamentale Fehler in den Entwürfen erkannt werden, dürfen wir Abstimmungspunkte aus der Wahl entfernen.
   Nach einer entsprechenden Korrektur können die Entwürfe dann in der nächsten Wahl abgestimmt werden.
   Sollten mehrere derartige Fälle auftreten, kann auch die gesamte Wahl abgebrochen und verschoben werden (*Korrekturrecht*).
 ]
@@ -249,13 +249,16 @@ Zusätzlich müssen mindestens zwei dieser drei Turniere in unterschiedlichen de
 
 Diese Bedingungen sollen sicherstellen, dass Teams ihre Regelbubble verlassen und im Austausch mit verschiedenen Teams stehen.
 
-Der Beginn des Qualifikationszeitraum ist im Regelfall mindestens ein Jahr lang. Liegt das Ende des Qualifikationszeitraum der vorhergegangen Wahl länger als ein Jahr zurück, beginnt der Qualifikationszeitraum ab dort. So kann jedes Turnier in der ein oder anderen Qualifikation beachtet werden. Sollte die letzte Regelwahl weniger als ein Jahr zurückliegen, kann es sein, dass ein Turnier für mehrere Qualifikationen zählen kann.
+Der Beginn des Qualifikationszeitraum ist im Regelfall mindestens ein Jahr lang. 
+Liegt das Ende des Qualifikationszeitraum der vorhergegangen Wahl länger als ein Jahr zurück, beginnt der Qualifikationszeitraum ab dort. 
+So kann jedes Turnier in der ein oder anderen Qualifikation beachtet werden. 
+Sollte die letzte Regelwahl weniger als ein Jahr zurückliegen, ist es möglich, dass ein Turnier für mehrere Qualifikationen zählt.
 
 Teams müssen sich im Vorlauf der Wahl für die Qualifizierung zur Regelwahl registrieren.
 Dies dient dazu, nur Teams mit ins Quorum aufzunehmen, die ein tatsächliches Interesse an der Regelwahl haben.
 Dazu ist ein Formular auf #weblink(display: "jugger.org", url: "https://www.jugger.org/regelhuetende") eingerichtet.\
 Die Regelwahl ist offen für internationale Teams.
-Die Kommunikation der Regelhütenden läuft exklusiv auf Deutsch, um den Aufwand zu begrenzen.
+Die Kommunikation der Regelhütenden läuft exklusiv auf Deutsch, um den Aufwand für die Regelhütenden zu begrenzen.
 
 === Abstimmungspunkte und Wahlverfahren <wahl_inhalte>
 *Änderungen* entsprechen den vorher ausgearbeiteten Regelentwürfen.
@@ -265,9 +268,11 @@ Da das Wahlverfahren geeignet ist, um abgestufte Meinungen abzubilden, ist eine 
 Erreicht ein Entwurf nicht die ⅔ - aber die Absolute Mehrheit im STV, wird die Änderung übernommen.
 Das Regelthema wird für die nächste Regelwahl allerdings nicht gesperrt.
 
-*Anpassungen* des Regeltext, die syntaktische Änderungen aber keine semantischen Änderungen beinhalten, werden mit Ja / Nein Optionen gegebenenfalls gebündelt abgestimmt und mit einfacher Mehrheit entschieden.
+*Anpassungen* des Regeltext, die syntaktische Änderungen aber keine semantischen Änderungen beinhalten, müssen nicht abgestimmt werden.
+Sie werden als Redigierungen angekündigt und dokumentiert.
 
-*Korrekturen* wie Rechtschreib- und Zeichensetzungsfehler, Gendergerechte Sprachvarianten, Layoutänderung und Ähnliches werden nicht abgestimmt, aber angekündigt und dokumentiert.
+*Korrekturen* wie Rechtschreib- und Zeichensetzungsfehler, Gendergerechte Sprachvarianten, Layoutänderung und Ähnliches müssen nicht abgestimmt werden.
+Sie werden als Redigierungen angekündigt und dokumentiert.
 
 Das *Quorum* für die Annahme der Regelwahl liegt bei ⅔ aller qualifizierten Teams.
 
@@ -328,7 +333,7 @@ Das Regelwerk soll dazu dienen, Personen, welche die Sportart Jugger nicht kenne
 Außerdem soll es einen Turnierbetrieb ermöglichen, in dem Regeln klar ausgelegt und umgesetzt werden können.
 Um dies sicherzustellen, soll das Regelwerk einer Reihe von Qualitätsmerkmalen gerecht werden:
 Es soll leicht verständlich formuliert sein und eine zugängliche Struktur aufweisen und keine spielentscheidenden Fragen offen lassen.
-Alle verwendeten Begriffe müssen innerhalb des Regelwerkes klar definiert werden.
+Alle verwendeten Begriffe sollten innerhalb des Regelwerkes klar definiert werden.
 Für die Anwendung in der Spielpraxis ist außerdem eine praktikable Spiel- und Schiedsbarkeit unabdinglich.
 
 ==== Methoden Ziel \#3 zu erreichen:
@@ -356,7 +361,6 @@ Wir streben an den Prozess der Regelbearbeitung zu verbessern und verfolgen dabe
 ==== Methoden Ziel \#4 zu erreichen:
 Damit die Regelbearbeitung auch im Nachhinein nachvollziehbar ist, werden die einzelnen Schritte stets begründet und dokumentiert.
 Wir werden Übersichten und Zusammenfassungen zur Verfügung stellen, damit es ohne großen Aufwand möglich ist, sich zu informieren und teilzuhaben.
-Dies beinhaltet auch Listen aktueller Regelideen in Bearbeitung.
 Um zusätzlich eine starke Einbindung der Gemeinschaft in den Prozess zu ermöglichen, wollen wir moderierte Gesprächsräume schaffen.
 
 Damit die Regelhütenden-Arbeit im zeitlichen Rahmen von ehrenamtlich engagierten Menschen bleibt, sollen den Regelhütenden die unter Punkt “Mandat” angeführten Rechte zur Moderation der Regelideen gegeben werden.
@@ -366,7 +370,6 @@ Wir wollen sicherstellen, dass Regelentwürfe, die zur Wahl gestellt werden, den
 Wir verfolgen das Ziel, Inkonsistenzen und Widersprüche zu vermeiden (siehe Ziel 1 - “Ein möglichst widerspruchsfreies Regelwerk erschaffen”).
 Daher sollten die Formulierungen der Regelentwürfe logisch in das restliche Regelwerk passen.
 Zudem möchten wir sicherstellen, dass Änderungen, die einen erheblichen Einfluss auf die Spielpraxis haben bzw. abbilden, nur dann zur Wahl gestellt werden, wenn sie ausreichend in der Praxis getestet wurden.
-Solche Regelentwürfe werden bei der Wahl markiert.
 Es soll damit sichergestellt werden, dass sich alle ein klares Bild davon verschaffen können, worüber sie eigentlich genau abstimmen und welche Konsequenzen das hat.
 
 Wir wollen für die Regelwahlen gute Regelentwürfe ausarbeiten.
@@ -396,7 +399,7 @@ Regelentwürfe werden von uns zudem iterativ entwickelt.
 Das bedeutet, dass wir unvollständige Regelentwürfe veröffentlichen und uns Feedback aus der Gemeinschaft dazu einholen.
 Damit wollen wir frühzeitig mögliche Probleme von Entwürfen erkennen und darauf reagieren können.\
 Um außerdem sicherzustellen, dass die bestmöglichen Formulierungen gefunden werden, werden wir Regelentwürfe in verschiedenen Varianten ausarbeiten.
-Diese bewerten wir anhand diverser Kriterien (z.B. Umfang, Komplexität, Methodik, Effektivität, Schiedsbarkeit oder andere) und stellen die sinnvollsten zur Wahl.
+Diese bewerten wir anhand diverser Kriterien (z.~B. Umfang, Komplexität, Methodik, Effektivität, Schiedsbarkeit oder andere) und stellen die sinnvollsten zur Wahl.
 
 == Ziel \#6: Begeisterung für die Regelarbeit in der Gemeinschaft <ziel_begeisterung>
 Wir wollen erreichen, dass die Gemeinschaft sich an dem gesamten Prozess der Regelwahlen beteiligen kann.
@@ -408,7 +411,6 @@ Zudem wollen wir durch unsere Arbeit mehr Interesse für das Amt der Regelhüten
 Die von der Gemeinschaft eingebrachten Regelideen werden von uns aufgenommen und mit einer Einschätzung beantwortet.
 Um einen geregelten (und vor allem planbaren) Prozess zu schaffen, wollen wir Termin-basiert arbeiten.
 Das heißt, dass wir uns als Regelhütenden zu vorher festgelegten Terminen treffen, um aus Regelideen Entwürfe zu erarbeiten.
-Zu diesen Terminen veröffentlichen wir im Vorfeld eine Arbeitsliste von Regelideen.
 Damit stellen wir sicher, dass keine Regelideen untergehen und einsehbar ist, an welchen Entwürfen gearbeitet wird.\
 Um die Relevanz der verschiedenen Ideen besser einzuschätzen und uns weitere Perspektiven anzueignen, werden wir Gesprächsräume schaffen.
 Diese sollen den Austausch zu Regelideen und Regelentwürfen innerhalb der Gemeinschaft, sowie zwischen den Regelhütenden und der Gemeinschaft, fördern.
@@ -424,7 +426,7 @@ Die basisdemokratische Gestaltung des Regelwerks und die Möglichkeit, dass sich
 Das jetzige Regelwerk ist über die vielen Jahre schon verbessert und verfeinert worden.
 Der Bedarf, Jugger und sein Regelwerk weiterzuentwickeln, besteht in der Jugger-Gemeinschaft.
 Wir möchten dazu beitragen, dass die Stärken des Regelwerks erhalten bleiben und gleichzeitig Entwicklungen vorantreiben.
-Dazu möchten wir gängige Spielpraxis zeitnah im Regelwerk abbilden können.
+Dazu möchten wir gängige Spielpraxis zeitnah im Regelwerk abbilden.
 Ein aktuelles Regelwerk sorgt für weniger Frust auf Turnieren und im Training und kann auch die Zugänglichkeit zu Jugger weiter verbessern.\
 Uns motiviert, dass wir hoffen, klare Strukturen und einen reproduzierbaren Prozess zur Regelhüterei zu schaffen, der gute und konsistente Ergebnisse liefert.
 Ein derartiger Prozess macht nicht nur die Regelhüterei für uns angenehm, sondern könnte auch als Blaupause für zukünftige Entwicklungen Anwendung finden.
@@ -432,7 +434,7 @@ Die Auseinandersetzung mit Regeln kann frustrierend sein.
 Je mehr Leute sich aber dafür begeistern können, umso besser kann das Regelwerk werden, weswegen eine guter Prozess über die Regelhütenden hinaus gewinnbringend ist.\
 Wir drei haben bereits in der Vergangenheit an Regelthemen und anderen Projekten zusammen gearbeitet und wissen, dass wir gemeinsam produktiv sein können und unsere individuellen Stärken nutzen können.
 Wir pflegen einen respektvollen Umgang miteinander und können uns gut in ein gemeinsames Team einbringen.
-Wir freuen uns darauf diese Zusammenarbeit als Regelhütende auszuweiten.
+Wir freuen uns darauf diese Zusammenarbeit als Regelhütende fortzusetzten.
 
 == Selbstverständnis <selbstverstaendnis>
 In unseren Augen handeln die Regelhütenden im Auftrag der Jugger-Gemeinschaft.
@@ -459,17 +461,20 @@ Wir versuchen schon jetzt unsere Abläufe so zu gestalten, dass sie möglichst r
 
 ==== Woher weiß ich, dass ihr das Veto-Recht nicht nutzt, um persönliche Präferenzen durchzusetzen? Muss ich damit rechnen, dass künftige Regeländerungen in Pawns-Interesse ausfallen werden?
 Wir möchten ein Veto-Recht, um die Arbeitslast sinnvoll einschränken zu können und keine Ressourcen auf Vorschläge verschwenden zu müssen, die nicht umsetzbar oder zu weit von der aktuellen Spielpraxis entfernt sind (bspw. 8 Pompfende pro Team auf dem Feld und 3 davon müssen DK spielen).\
+Wir sind bereit Regelentwürfe zu entwickeln, die unseren Geschmack nicht entsprechen, um echte Alternativen in der Regelwahl zu bieten.
 Jedes Veto soll transparent begründet werden und wenn die Begründungen nicht akzeptabel sind, kann die Jugger-Gemeinschaft uns auch wieder abwählen.
 
 ==== Welche Regeländerungen strebt ihr an?
 Wir streben keine speziellen Regeländerungen an und haben keine persönliche Agenda.
 Wir werden aus Regelideen Regelentwürfe erarbeiten und diese dann wie gewohnt in der Gemeinschaft zur Wahl stellen.
+Aus der vergangenen Amtszeit sind uns Themen bewusst, die noch nicht bearbeitet wurden.
 
 ==== Euer Projekt klingt nach einem sehr hohen Arbeitsaufwand. Habt ihr euch überlegt, wie ihr das stemmen wollt?
 Uns ist bewusst, dass unsere Vorstellungen zeitintensiv sind.
 Um eine effiziente Einteilung zu ermöglichen, möchten wir so verfahren, wie unter Prozess dargestellt.
 Dadurch soll die Alltagsbelastung so gering wie möglich sein und gleichmäßig über das Jahr verteilt werden.
 Gleichzeitig haben wir uns in dieser Gruppe gefunden, weil wir uns aufeinander verlassen und Arbeitsteilung möglich ist.
+Mit der Erfahrung der veragngenen Amtszeit können wir sagen, dass wir das Arbeitspensum gut verwalten können.
 
 ==== Was ist, wenn ich eure Idee prinzipiell gut finde, aber einzelne Personen nicht in eurem Team sehen möchte?
 Wir sind der Meinung, dass jede*r von uns wichtigen Input und Fähigkeiten mitbringt, die der Regelarbeit im vorgeschlagenen Sinne zuträglich sind.
@@ -489,15 +494,6 @@ Vornehmlich die folgenden beiden:
 Das heißt nicht, dass wir nicht prinzipiell bereit sind, mit anderen Menschen zusammenzuarbeiten.
 Der mittel- bis langfristige Plan ist ja auch, dieses Amt stückweise abzugeben und neue Regelhütis einzuarbeiten (sofern das System bleiben soll).
 Allerdings ist eine Etablierung unseres Systems in einer Gruppe, die sich vorher detailliert damit auseinandergesetzt hat, zeiteffizienter und einfacher möglich.
-
-==== Was wird aus dem AG-System und was ist, wenn eure Variante der Regelhütung nicht funktioniert?
-Das AG-System erfordert viel Eigeninitiative der Gemeinschaft und sorgt gleichzeitig für eine Verantwortungsdiffusion, weil niemand das ganze Regelwerk im Auge haben muss.
-Das hat in der Vergangenheit wiederholt zu Problemen geführt.
-Unser Vorschlag würde das AG-System ablösen und eine Mitarbeit der Gemeinschaft auf andere Arten unterstützen (s. Ziel 6).\
-Wir möchten uns vorerst für ein Jahr zur Wahl stellen.
-Wenn wir gewählt werden und die Mehrheit der Jugger-Gemeinschaft nach dieser Zeit unzufrieden mit den Resultaten ist, sollten wir nicht wiedergewählt werden.
-Im allerschlimmsten Fall kann das Regelwerk in der Form, wie es vor unserer Bearbeitung war, wieder etabliert werden.
-Damit würde ein Jahr Regelbearbeitung verloren gehen, aber kein nachhaltiger Effekt spürbar werden.
 
 ==== Wie wollt ihr eure hohen Ziele messen?
 Wir haben versucht, möglichst klar auszuformulieren, was unser Anspruch und unsere Ziele sind.
